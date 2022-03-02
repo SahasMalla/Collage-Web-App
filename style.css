@@ -1,0 +1,20 @@
+/*.developer_div{
+    position: fixed;
+    margin-bottom: 0;
+    background-color: goldenrod;
+    color: darkblue;
+}*/
+
+body{
+    background-color: cyan;
+}
+
+img:hover{
+    border-radius: 50px;
+}
+
+img{
+    padding: 10px;
+    box-shadow: 0 10px 10px 0px blue;
+
+}
